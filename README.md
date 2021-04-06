@@ -1,4 +1,8 @@
 # 🎮python으로 슈팅게임 만들기(python_shooting_game)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/68860983/113666415-37f13380-96ea-11eb-8d3b-1c54915933d5.png" alrt ="게임화면이미지" width="50%">
+  <img src="https://user-images.githubusercontent.com/68860983/113666411-36277000-96ea-11eb-8369-3faff7bad7d5.png" alrt ="게임화면이미지" width="50%">
+</p>
 
 ## ✨OVERVIEW
 #### Python의 pygame 라이브러리를 이용하여 슈팅 게임 개발
